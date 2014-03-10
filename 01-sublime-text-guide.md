@@ -81,6 +81,6 @@ This will ensure consistency in our code and avoid complicating our `git` diffs.
 
 ## Aesthetic Recommendations
 
-Theme: *Spacegray Eighties*
-Color Scheme: *Spacegray Eighties*
-Font: Adobe Source Code Pro
+* Theme: *Spacegray Eighties*
+* Color Scheme: *Spacegray Eighties*
+* Font: Adobe Source Code Pro
