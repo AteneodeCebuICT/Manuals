@@ -12,41 +12,40 @@ In order to maintain consistency with our Sublime Text 3 settings, the following
 
 ```javascript
 {
+    "auto_find_in_selection": true,
+    "bold_folder_labels": true,
     "close_windows_when_empty": true,
     "color_scheme": "Packages/User/base16-eighties.dark (SL).tmTheme",
-    "draw_white_space": "selection",
-    "detect_indentation": false,
+    "draw_white_space": "all",
     "ensure_newline_at_eof_on_save": true,
     "fade_fold_buttons": false,
     "font_face": "Source Code Pro",
     "font_size": 10,
     "highlight_line": true,
     "highlight_modified_tabs": true,
-    "ignored_packages":
-    [
+    "ignored_packages": [
         "Vintage"
     ],
-    "indent_guide_options":
-    [
+    "indent_guide_options": [
         "draw_normal",
         "draw_active"
     ],
     "open_files_in_new_window": false,
     "preview_on_click": false,
-    "rulers":
-    [
+    "rulers": [
         72,
         79,
         120
     ],
-    "show_full_path": true,
     "tab_size": 4,
     "theme": "Spacegray Eighties.sublime-theme",
     "translate_tabs_to_spaces": true,
     "trim_trailing_white_space_on_save": true,
     "wide_caret": true,
+    "word_wrap": true,
     "wrap_width": 80
 }
+
 ```
 
 Many of the above settings are subjective and can be changed according to the personal preference of the developer. However, as an absolute must, the following are mandatory:
