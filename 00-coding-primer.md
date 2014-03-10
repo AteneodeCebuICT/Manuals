@@ -2,13 +2,13 @@
 
 The Ateneo de Cebu - ICT Team develops technology-based solutions that aims to…
 
-1. enhance the teaching and learning process by developing applications that can either be used in the classroom or as a tool that helps the teachers in preparing their lessons 
-2. increase the productivity of the faculty and staff by developing applications that cater to the needs of the school community
-3. solve problems and needs that are very difficult to do without the use of computer algorithms. 
+1. Enhance the teaching and learning process by developing applications that can either be used in the classroom or as a tool that helps the teachers in preparing their lessons
+2. Increase the productivity of the faculty and staff by developing applications that cater to the needs of the school community
+3. Solve problems and needs that are very difficult to do without the use of computer algorithms.
 
 ## Methodologies
 
-The team tries to follow [Agile Software Development](https://www.atlassian.com/agile) as much as possible. 
+The team tries to follow [Agile Software Development](https://www.atlassian.com/agile) as much as possible.
 
 The needs of the school community may change very easily and very quickly. The team tries to be flexible and be *agile* enough to deliver the needs of the school.
 
@@ -39,7 +39,7 @@ Currently, the following frameworks/libraries are being used in the projects:
 1. **[Django](http://djangoproject.com/)** - This is the web framework built in *Python* that the team uses for its server-side systems. It enables fast development and delivery of features.
 2. **[AngularJS](http://angularjs.org/)** - This is the JS framework that is used to enhance the functionality on the frontend.
 3. **[Bootstrap](http://getbootstrap.com/)** - This is the standard HTML/CSS framework that is used.
-4. **[jQuery](http://jquery.com/)** - Used in adding functionality to the frontend. 
+4. **[jQuery](http://jquery.com/)** - Used in adding functionality to the frontend.
 
 Knowledge of any following technologies is also very useful since the team is planning to use these in upcoming projects:
 
