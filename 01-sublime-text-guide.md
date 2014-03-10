@@ -67,22 +67,31 @@ This will ensure consistency in our code and avoid complicating our `git` diffs.
 
 ## Recommmended Packages
 
-*TODO: Make these into hyperlinks. Give instructions in installing these.*
+Make sure *Package Control* is installed first. This will make the installation of the other packages a lot easier.
 
-1. Package Control
-2. Emmet
-3. Git
-4. GitGutter
-5. SideBarEnchanceMents
-6. SublimeLinter
-7. SublimeLinter-gjslint
-8. SublimeLinter-pep8
-9. Djaneiro
+* **[Package Control](https://sublime.wbond.net/docs/usage)** - To install, please refer to the [following instructions](https://sublime.wbond.net/installation).
+
+Once *Package Control* has already been installed, the procedure for installing the rest of the packages is a lot simpler.
+
+1. Press `Ctrl+Shift+P`.
+2. Choose (or type) `Package Control: Install Package`.
+3. Choose the package that you want to install.
+
+Use the procedure above to install the following packages:
+
+* [Emmet](https://sublime.wbond.net/packages/Emmet)
+* [Git](https://sublime.wbond.net/packages/Git)
+* [GitGutter](https://sublime.wbond.net/packages/GitGutter)
+* [SideBarEnhancements](https://sublime.wbond.net/packages/SideBarEnhancements)
+* [SublimeLinter](https://sublime.wbond.net/packages/SublimeLinter)
+* [SublimeLinter-jshint](https://sublime.wbond.net/packages/SublimeLinter-jshint)
+* [SublimeLinter-pep8](https://sublime.wbond.net/packages/SublimeLinter-pep8)
+* [Djaneiro](https://sublime.wbond.net/packages/Djaneiro)
 
 ## Aesthetic Recommendations
 
 *TODO: Make these into hyperlinks. Give instructions in installing these.*
 
-* Theme: *Spacegray Eighties*
-* Color Scheme: *Spacegray Eighties*
-* Font: *Adobe Source Code Pro*
+* Theme: *[Spacegray Eighties](https://sublime.wbond.net/packages/Theme%20-%20Spacegray)*
+* Color Scheme: *[Spacegray Eighties](https://sublime.wbond.net/packages/Theme%20-%20Spacegray)*
+* Font: *[Adobe Source Code Pro](https://sourceforge.net/projects/sourcecodepro.adobe/files/)*
