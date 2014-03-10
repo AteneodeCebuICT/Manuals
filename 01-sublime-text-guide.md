@@ -67,7 +67,7 @@ This will ensure consistency in our code and avoid complicating our `git` diffs.
 
 ## Recommmended Packages
 
-*TODO: Make these into hyperlinks. Give instructions in installing these.
+*TODO: Make these into hyperlinks. Give instructions in installing these.*
 
 1. Package Control
 2. Emmet
@@ -81,6 +81,8 @@ This will ensure consistency in our code and avoid complicating our `git` diffs.
 
 ## Aesthetic Recommendations
 
+*TODO: Make these into hyperlinks. Give instructions in installing these.*
+
 * Theme: *Spacegray Eighties*
 * Color Scheme: *Spacegray Eighties*
-* Font: Adobe Source Code Pro
+* Font: *Adobe Source Code Pro*
