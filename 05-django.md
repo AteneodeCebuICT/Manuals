@@ -1,0 +1,4 @@
+# Django Guide
+
+## Style Guide
+https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/

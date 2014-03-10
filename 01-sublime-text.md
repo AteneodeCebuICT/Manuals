@@ -84,7 +84,7 @@ Use the procedure above to install the following packages:
 * [GitGutter](https://sublime.wbond.net/packages/GitGutter)
 * [SideBarEnhancements](https://sublime.wbond.net/packages/SideBarEnhancements)
 * [SublimeLinter](https://sublime.wbond.net/packages/SublimeLinter)
-* [SublimeLinter-jshint](https://sublime.wbond.net/packages/SublimeLinter-jshint)
+* [SublimeLinter-gjslint](https://sublime.wbond.net/packages/SublimeLinter-gjslint)
 * [SublimeLinter-pep8](https://sublime.wbond.net/packages/SublimeLinter-pep8)
 * [Djaneiro](https://sublime.wbond.net/packages/Djaneiro)
 
