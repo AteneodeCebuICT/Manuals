@@ -27,10 +27,10 @@ the needs of the school.
 Required Skills
 ---------------
 
+-  **MAGIS** - Being *more*. Doing your best in everything you do!
 -  The Passion to Learn
 -  The Passion to Serve
 -  The Passion to Lead
--  **MAGIS** - Being *more* or doing your best in everything you do!
 
 The team does not strictly require anything except for the above.
 Everything else follows if you have those.
