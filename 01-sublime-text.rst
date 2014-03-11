@@ -4,8 +4,11 @@ Sublime Text 3 Primer
 `Sublime Text 3`_ is chosen as the standard code editor due to its
 simplicity and ease of use.
 
+.. _Sublime Text 3: http://sublimetext.com
+
 This document contains guidelines and recommendations in using Sublime
 Text 3 for development.
+
 
 User Preferences
 ----------------
@@ -80,8 +83,11 @@ Recommmended Packages
 Make sure *Package Control* is installed first. This will make the
 installation of the other packages a lot easier.
 
--  **`Package Control`_** - To install, please refer to the `following
+-  `Package Control`_ - To install, please refer to the `following
    instructions`_.
+
+.. _Package Control: https://sublime.wbond.net/docs/usage
+.. _following instructions: https://sublime.wbond.net/installation
 
 Once *Package Control* has already been installed, the procedure for
 installing the rest of the packages is a lot simpler.
@@ -101,19 +107,6 @@ Use the procedure above to install the following packages:
 -  `SublimeLinter-pep8`_
 -  `Djaneiro`_
 
-Aesthetic Recommendations
--------------------------
-
-*TODO: Make these into hyperlinks. Give instructions in installing
-these.*
-
--  Theme: *`Spacegray Eighties`_*
--  Color Scheme: *`Spacegray Eighties`_*
--  Font: *`Adobe Source Code Pro`_*
-
-.. _Sublime Text 3: http://sublimetext.com
-.. _Package Control: https://sublime.wbond.net/docs/usage
-.. _following instructions: https://sublime.wbond.net/installation
 .. _Emmet: https://sublime.wbond.net/packages/Emmet
 .. _Git: https://sublime.wbond.net/packages/Git
 .. _GitGutter: https://sublime.wbond.net/packages/GitGutter
@@ -122,5 +115,17 @@ these.*
 .. _SublimeLinter-gjslint: https://sublime.wbond.net/packages/SublimeLinter-gjslint
 .. _SublimeLinter-pep8: https://sublime.wbond.net/packages/SublimeLinter-pep8
 .. _Djaneiro: https://sublime.wbond.net/packages/Djaneiro
+
+
+Aesthetic Recommendations
+-------------------------
+
+*TODO: Make these into hyperlinks. Give instructions in installing
+these.*
+
+-  Theme: `Spacegray Eighties`_
+-  Color Scheme: `Spacegray Eighties`_
+-  Font: `Adobe Source Code Pro`_
+
 .. _Spacegray Eighties: https://sublime.wbond.net/packages/Theme%20-%20Spacegray
 .. _Adobe Source Code Pro: https://sourceforge.net/projects/sourcecodepro.adobe/files/
