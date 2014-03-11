@@ -16,8 +16,8 @@ User Preferences
 In order to maintain consistency with our Sublime Text 3 settings, the
 following settings are recommended.
 
-*These settings can be set by going to **Preferences** -> **Settings -
-User**.*
+*These settings can be set by going to Preferences -> Settings -
+User.*
 
 .. code:: javascript
 
