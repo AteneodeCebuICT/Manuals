@@ -5,6 +5,7 @@ Learn
 -----
 
 -  http://www.codecademy.com/tracks/web
+-  https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started
 -  http://www.webplatform.org/
 -  http://dev.opera.com/articles/view/1-introduction-to-the-web-standards-cur/#toc
 -  http://reference.sitepoint.com/html

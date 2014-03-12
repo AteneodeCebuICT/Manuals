@@ -1,5 +1,0 @@
-MySQL Guide
-=========
-
-Learn MySQL
------------
