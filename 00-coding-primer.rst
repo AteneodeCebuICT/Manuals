@@ -111,3 +111,10 @@ Recommended Tools
 .. _Sublime Text 3: http://www.sublimetext.com/
 .. _Git: http://try.github.io/
 .. _SourceTree: http://sourcetreeapp.com
+
+The school was able to obtain educational licenses for `JetBrains WebStorm 7`_ and `JetBrains PyCharm 3`_. These are two of the leading IDEs for *HTML/CSS/Javascript* and *Python/Django* respectively. We're still in the process of learning our way around these two IDEs and become even more productive than we already are with *Sublime Text 3*. Definitely, the use of full-pledged IDEs will come in very handy as our projects become bigger and our needs become more complex.
+
+.. _JetBrains WebStorm 7: http://www.jetbrains.com/webstorm/
+.. _JetBrains PyCharm 3: http://www.jetbrains.com/pycharm/
+
+Should you wish to try these IDEs out, please contact *Noel Martin Llevares* to get a copy of the license.
