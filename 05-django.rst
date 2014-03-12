@@ -2,7 +2,7 @@ Django Guide
 ============
 
 .. image:: https://www.djangoproject.com/s/img/logos/django-logo-positive.png
-    50%
+    :width: 200
 
 Learn Django
 ------------
