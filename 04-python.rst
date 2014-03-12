@@ -2,6 +2,7 @@ Python Guide
 ============
 
 .. image:: http://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png
+    :width: 200px
 
 Learn Python
 ------------

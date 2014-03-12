@@ -2,6 +2,7 @@ Sublime Text 3 Primer
 =====================
 
 .. image:: http://upload.wikimedia.org/wikipedia/en/4/4c/Sublime_Text_Logo.png
+    :width: 200px
 
 About Sublime Text 3
 --------------------
@@ -45,7 +46,7 @@ User.*
             "draw_normal",
             "draw_active"
         ],
-        "open_files_in_new_window": false,
+        "open_files_in_new_window": true,
         "preview_on_click": false,
         "rulers": [
             72,

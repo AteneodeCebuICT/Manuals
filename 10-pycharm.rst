@@ -2,6 +2,7 @@ PyCharm Guide
 =============
 
 .. image:: http://www.jetbrains.com/img/logos/pycharm_logo.gif
+    :width: 200px
 
 About PyCharm
 -------------
