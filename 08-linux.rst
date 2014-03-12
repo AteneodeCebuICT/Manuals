@@ -15,8 +15,7 @@ Desktop
 - `Linux Mint`_
 
 Server
-- `Ubuntu Server`_
-    - Use only LTS versions for production systems.
+- `Ubuntu Server`_ - Use only LTS versions for production systems.
 
 .. _Linux Mint: http://linuxmint.com/
 .. _Ubuntu Server: http://www.ubuntu.com/download/server

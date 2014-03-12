@@ -3,6 +3,9 @@ Sublime Text 3 Primer
 
 .. image:: http://upload.wikimedia.org/wikipedia/en/4/4c/Sublime_Text_Logo.png
 
+About Sublime Text 3
+--------------------
+
 `Sublime Text 3`_ is chosen as the standard code editor due to its
 simplicity and ease of use.
 
