@@ -2,7 +2,7 @@ Git Guide
 =========
 
 .. image:: http://git-scm.com/images/logos/downloads/Git-Logo-1788C.png
-    :width: 200
+    50%
 
 Learn Git
 ---------

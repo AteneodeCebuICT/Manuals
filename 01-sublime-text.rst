@@ -2,7 +2,7 @@ Sublime Text 3 Primer
 =====================
 
 .. image:: http://upload.wikimedia.org/wikipedia/en/4/4c/Sublime_Text_Logo.png
-    :width: 200
+    50%
 
 About Sublime Text 3
 --------------------

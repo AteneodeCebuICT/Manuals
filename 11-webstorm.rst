@@ -2,7 +2,7 @@ WebStorm Guide
 ==============
 
 .. image:: http://www.jetbrains.com/img/logos/webstorm_logo.gif
-    :width: 200
+    50%
 
 About WebStorm
 --------------
