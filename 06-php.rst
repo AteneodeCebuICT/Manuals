@@ -1,8 +1,8 @@
 PHP Guide
 =========
 
-Learn
------
+Learn PHP
+---------
 
 -  http://www.codecademy.com/tracks/php
 -  http://www.phptherightway.com/

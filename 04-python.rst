@@ -1,8 +1,8 @@
 Python Guide
 ============
 
-Learn
------
+Learn Python
+------------
 
 -  http://www.codecademy.com/tracks/python
 -  http://docs.python-guide.org/en/latest/
