@@ -2,7 +2,6 @@ PHP Guide
 =========
 
 .. image:: http://www.php.net/images/logos/php-med-trans.png
-    :width: 200
 
 Learn PHP
 ---------
