@@ -1,8 +1,6 @@
 Sublime Text 3 Primer
 =====================
 
-.. image:: http://upload.wikimedia.org/wikipedia/en/4/4c/Sublime_Text_Logo.png
-
 About Sublime Text 3
 --------------------
 
