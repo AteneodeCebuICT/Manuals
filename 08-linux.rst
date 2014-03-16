@@ -12,10 +12,12 @@ Recommended Distributions
 -------------------------
 
 Desktop
-- `Linux Mint`_
+- `Linux Mint`_ - Highly recommended for beginners.
+- `Arch Linux`_ - For those who really wants to learn how Linux works. Not for the faint-hearted.
 
 Server
 - `Ubuntu Server`_ - Use only LTS versions for production systems.
 
 .. _Linux Mint: http://linuxmint.com/
+.. _Arch Linux: http://archlinux.org/
 .. _Ubuntu Server: http://www.ubuntu.com/download/server
