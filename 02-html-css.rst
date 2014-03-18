@@ -15,3 +15,12 @@ Coding Standards
 ----------------
 
 -  http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml
+
+Libraries We Use
+----------------
+
+- `Bootstrap`_ - HTML/CSS framework for rapid prototyping
+- `Foundation`_ - an alternative to *Bootstrap*
+
+.. _Bootstrap: http://getbootstrap.com/
+.. _Foundation: http://foundation.zurb.com/
