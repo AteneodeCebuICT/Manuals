@@ -83,6 +83,11 @@ projects:
 .. _Bootstrap: http://getbootstrap.com/
 .. _jQuery: http://jquery.com/
 
+Though most of the backend is in *Python*, we have dabbled with `PHP`_ and `Ruby`_ in the past.
+
+.. _PHP: http://php.net/
+.. _Ruby: https://www.ruby-lang.org/en/
+
 Knowledge of any following technologies is also very useful since the
 team is planning to use these in upcoming projects:
 
